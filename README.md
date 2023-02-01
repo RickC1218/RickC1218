@@ -44,13 +44,11 @@
 
 ---
 ### Starts en GitHub:
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RickC1218&show_icons=true&locale=en" alt="RickC1218" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RickC1218&show_icons=true&theme=dark)
 
 ---
 ### Compact Language Card Layout:
-<p align="center">&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RickC1218&layout=compact)](https://github.com/RickC1218/github-readme-stats)
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RickC1218&layout=compact&theme=dark)](https://github.com/RickC1218/github-readme-stats)
 
 ---
