@@ -48,8 +48,9 @@
 
 ---
 ### Compact Language Card Layout:
-<p align="center">&nbsp;</p>
+<p align="center">&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RickC1218&layout=compact)](https://github.com/RickC1218/github-readme-stats)
+</p>
 
 ---
