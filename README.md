@@ -4,17 +4,17 @@
 -->
 <div id="header" aling="center">
     <h1> Hello world 👋🌐 </h1>
-    <h2> I'm Ricardo Erazo 🤓</h2>
-    <h4> Computer Science Engineering student, dedicated to Front End development. Study at the Escuela Politécnica Nacional in Quito, Ecuador.</h4>
+    <h2><b> I'm Ricardo Erazo 🤓 </b></h2>
+    <h4><i> Computer Science Engineering student, dedicated to Front End development. Study at the Escuela Politécnica Nacional in Quito, Ecuador. </i></h4>
 </div>
 
 ---
 ### About me:
 
-- 🔭I’m currently working on an internship project at JRTEC S.A.S.
-- 🌱 I’m currently learning Kotlin and React.
-- 💬 Ask me about Java
-- 📫 How to reach me: "ricardoerazoliga@gmail.com"
+    - 🔭I’m currently working on an internship project at JRTEC S.A.S.
+    - 🌱 I’m currently learning Kotlin and React.
+    - 💬 Ask me about Java
+    - 📫 How to reach me: "ricardoerazoliga@gmail.com"
 
 ### Languages and Tools:
 <div>
@@ -41,3 +41,15 @@
 <div>
     <a href="https://www.linkedin.com/in/ricardo-erazo-676355184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hhttps://www.linkedin.com/in/ricardo-erazo-676355184" height="30" width="30" /></a>
 </div>
+
+---
+### Starts en GitHub:
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RickC1218&show_icons=true&locale=en" alt="RickC1218" /></p>
+
+---
+### Compact Language Card Layout:
+<p align="center">&nbsp;</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RickC1218&layout=compact)](https://github.com/RickC1218/github-readme-stats)
+
+---
