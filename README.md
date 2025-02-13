@@ -5,13 +5,13 @@
 <div id="header" aling="center">
     <h1> Hello world 👋🌐 </h1>
     <h2><b> I'm Ricardo Erazo 🤓 </b></h2>
-    <h4><i> Computer Science Engineering engineer, dedicated to Front End development. Study at the Escuela Politécnica Nacional in Quito, Ecuador. </i></h4>
+    <h4><i> Computer Science Engineering engineer, dedicated to Front End development. I studied at the Escuela Politécnica Nacional in Quito, Ecuador. </i></h4>
 </div>
 
 ---
 ### About me:
 
-    - 🔭I’m currently study about cyber security.
+    - 🔭I’m currently study about front-end technology.
     - 🌱 I’m currently learning React and NextJS.
     - 📫 How to reach me: "r.erazo2805@gmail.com"
 
